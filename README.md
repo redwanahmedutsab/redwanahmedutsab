@@ -15,11 +15,11 @@
 
 ## 🚀 About Me
 
-- 🎓 CSE undergrad @ UIU (CGPA: 3.70)  
+- 🎓 CSE undergrad @ United International University (CGPA: 3.70)  
 - 🔭 Current Projects: **Proprietier**, **NLP Research on Jailbreak Bias & Hallucinations**, and more!  
-- 🏆 Leetcode (250+) | Codeforces (170+)  
-- 🧪 Researching Transformers & Text-to-Image Generation  
-- 🧑‍🏫 TA for Data Structures & OOP  
+- 🏆 Leetcode (250+) | Codeforces (170+)
+- 🧪 Researching Transformers & Text-to-Image Generation
+- 🧑‍🏫 Undergraduate Teaching Assistant for Data Structures and Algorithms Lab & Object Oriendted Programming Lab  
 - 🌐 Visit my portfolio: [redwanahmedutsab.github.io](https://redwanahmedutsab.github.io)
 
 ---
