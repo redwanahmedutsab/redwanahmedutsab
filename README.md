@@ -23,6 +23,16 @@
 - 🌐 Visit my portfolio: [redwanahmedutsab.github.io](https://redwanahmedutsab.github.io)
 
 ---
+---
+
+## 🏅 Championships & Awards
+
+- 🥇 **1st place** (out of 72) — DBMS Competition, UIU (2023)  
+- 🥈 **1st Runner-Up** (out of 56) — System Analysis & Design, UIU (2024)  
+- 🥉 **2nd Runner-Up** (out of 29) — Thesis & Project Competition, UIU (2025)  
+- 🥇 **1st place** (50+ participants) — Pathao Quiz Competition, UIU (2024)
+
+---
 
 ## 🔥 Completed Projects
 
