@@ -23,7 +23,6 @@
 - 🌐 Visit my portfolio: [redwanahmedutsab.github.io](https://redwanahmedutsab.github.io)
 
 ---
----
 
 ## 🏅 Championships & Awards
 
