@@ -17,7 +17,7 @@
 
 - 🎓 CSE undergrad @ UIU (CGPA: 3.70)
 - 🔭 Current Projects: **SmartUIU**, **NLP Research**, and more!
-- 🏆 Leetcode (240+) | Codeforces (165+)
+- 🏆 Leetcode (250+) | Codeforces (170+)
 - 🧪 Researching Transformers & Text-to-Image Generation
 - 🧑‍🏫 TA for Data Structures & OOP
 - 🌐 Visit my portfolio: [redwanahmedutsab.github.io](https://redwanahmedutsab.github.io)
