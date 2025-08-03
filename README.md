@@ -15,53 +15,74 @@
 
 ## 🚀 About Me
 
-- 🎓 CSE undergrad @ UIU (CGPA: 3.70)
-- 🔭 Current Projects: **SmartUIU**, **NLP Research**, and more!
-- 🏆 Leetcode (250+) | Codeforces (170+)
-- 🧪 Researching Transformers & Text-to-Image Generation
-- 🧑‍🏫 TA for Data Structures & OOP
+- 🎓 CSE undergrad @ UIU (CGPA: 3.70)  
+- 🔭 Current Projects: **Proprietier**, **NLP Research on Jailbreak Bias & Hallucinations**, and more!  
+- 🏆 Leetcode (250+) | Codeforces (170+)  
+- 🧪 Researching Transformers & Text-to-Image Generation  
+- 🧑‍🏫 TA for Data Structures & OOP  
 - 🌐 Visit my portfolio: [redwanahmedutsab.github.io](https://redwanahmedutsab.github.io)
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Completed Projects
 
-### 🎓 [SmartUIU](https://github.com/redwanahmedutsab/smartuiu)
+### 🎓 [SmartUIU](https://github.com/redwanahmedutsab/smartuiu)  
 > A full-featured campus platform for UIU students  
 🛠 React • Django • MySQL | 📱 Mobile-friendly  
 ⭐ Events • Marketplace • Chatbot • Blog • Housing • Lost & Found
 
 ---
 
-### 🧠 [NLP Research Lab](https://github.com/redwanahmedutsab/NLP-Research)
-> Central repo for experiments on NLP tasks and LLMs  
-🧪 Transformers • BERT • GPT • Text Summarization • Chatbot  
-📚 Includes papers, notebooks, and evaluation scripts
+### 💼 [UIU Job Bank](https://github.com/redwanahmedutsab/uiu-job-bank)  
+> A job portal connecting students with internships and full-time jobs  
+⚛️ React • Django • MySQL • REST APIs  
+📊 Employer & Job Seeker dashboards, Job search & application system
 
 ---
 
-### 📘 [LeetCode Solutions](https://github.com/redwanahmedutsab/leetcode-solutions)
-> Mastering DSA with Java & C++ dual solutions  
-📂 Sorted by topic | Optimized approaches | Interview-ready  
-🏁 Topics: Trees, Graphs, DP, Greedy, Recursion, Bitmasking & more
+### 📱 [Thesis & Intern Finder App](https://github.com/redwanahmedutsab/thesis-intern-finder)  
+> Mobile app for finding thesis supervisors and internships  
+📱 React Native • NestJS • PostgreSQL • Real-time chat & notifications  
+🔎 Search filters • Enhanced mobile UX & performance
+
+---
+
+## 🏡 Currently Working On
+
+### 🏡 [Proprietier: Real Estate Management Platform](https://github.com/redwanahmedutsab/proprietier)  
+> Full-stack property management system for agents, clients, and admins  
+🐍 Django + Django REST Framework • ⚛️ React.js • 🐘 PostgreSQL • Tailwind CSS
+
+- User authentication & role-based access control (Agents, Clients, Admins)  
+- CRUD operations for property listings with RESTful API design  
+- Responsive SPA frontend with React hooks and Axios data fetching  
+- Clean backend architecture with secure token-based authentication  
+
+---
+
+## 🧠 NLP Research
+
+- Investigating **Jailbreak Bias** and **Hallucinations** in Large Language Models  
+- Exploring techniques to detect and mitigate harmful or misleading outputs  
+- Applying Transformer architectures & evaluation metrics in research experiments  
 
 ---
 
 ## 💼 Resume Snapshot
 
-- 👨‍💻 **Tech Stack**:  
+- 👨‍💻 **Tech Stack:**  
   `C++` `Java` `Python` `JavaScript` `React` `Django` `MySQL` `PostgreSQL` `Firebase`
 
-- 🔗 **Tools**:  
+- 🔗 **Tools:**  
   `Git` `GitHub` `Postman` `React Native` `NestJS` `Flask`
 
-- 🧠 **Courses**:  
+- 🧠 **Courses:**  
   Machine Learning, OS, OOP, DBMS, CN, SAD, Project Mgmt
 
-- 🏅 **Awards**:  
-  1st – DBMS Comp (UIU) | 2nd Runner-Up – Thesis & Project | 1st – Pathao Quiz
+- 🏅 **Awards:**  
+  1st – DBMS Competition (UIU) | 2nd Runner-Up – Thesis & Project Expo | 1st – Pathao Quiz
 
-- 🔬 **Research**:  
+- 🔬 **Research:**  
   Optimized Transformers for long-sequence QA | Text-to-Image Generation (NLP Lab)
 
 📄 **[View Full Resume »](https://redwanahmedutsab.github.io)**
@@ -87,11 +108,11 @@
 
 ## 🌐 Online Profiles
 
-- 🔗 [Portfolio Website](https://redwanahmedutsab.github.io)
-- 👨‍💼 [LinkedIn](https://linkedin.com/in/redwanahmedutsab)
-- 💡 [LeetCode](https://leetcode.com/redwanahmedutsab)
-- 🎯 [Codeforces](https://codeforces.com/profile/redwanahmedutsab)
-- 🐙 [GitHub](https://github.com/redwanahmedutsab)
+- 🔗 [Portfolio Website](https://redwanahmedutsab.github.io)  
+- 👨‍💼 [LinkedIn](https://linkedin.com/in/redwanahmedutsab)  
+- 💡 [LeetCode](https://leetcode.com/redwanahmedutsab)  
+- 🎯 [Codeforces](https://codeforces.com/profile/redwanahmedutsab)  
+- 🐙 [GitHub](https://github.com/redwanahmedutsab)  
 
 ---
 
@@ -100,7 +121,7 @@
 Got an opportunity, idea, or want to collaborate?
 
 📬 **redwanutsab@gmail.com**  
-📱 +8801789160352
+📱 +8801789160352  
 
 ---
 
