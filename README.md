@@ -2,20 +2,23 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:124082,100:1E90FF&height=220&section=header&text=Redwan%20Ahmed%20Utsab&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20LLM%20Apps%20%C2%B7%20RAG%20%C2%B7%20Agentic%20Systems&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:124082,100:1E90FF&height=220&section=header&text=Redwan%20Ahmed%20Utsab&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20LLM%20Apps%20%C2%B7%20RAG%20%C2%B7%20Agentic%20Systems&descSize=18&descAlignY=58" width="100%" alt="Redwan Ahmed Utsab" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=1E90FF&center=true&vCenter=true&width=700&lines=Building+agentic+RAG+systems+with+LangGraph;Shipping+LLM+apps+from+prototype+to+production;Fine-tuning+Transformers+for+NLP+%26+CV;Co-Founder+%26+Co-CEO+%40+BinaryBrains+Technologies" alt="Typing SVG" />
+<a href="https://redwanahmedutsab.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=1E90FF&center=true&vCenter=true&width=700&lines=Building+agentic+RAG+systems+with+LangGraph;Shipping+LLM+apps+from+prototype+to+production;Fine-tuning+Transformers+for+NLP+and+CV;Co-Founder+and+Co-CEO+at+BinaryBrains+Technologies" alt="Typing animation" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-redwanahmedutsab.vercel.app-124082?style=for-the-badge&logo=vercel&logoColor=white)](https://redwanahmedutsab.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/redwanahmedutsab)
-[![Email](https://img.shields.io/badge/Email-redwanutsab@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redwanutsab@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-450%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/redwanahmedutsab/)
+<a href="https://redwanahmedutsab.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-124082?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/redwanahmedutsab"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:redwanutsab@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/redwanahmedutsab/"><img src="https://img.shields.io/badge/LeetCode-480_Solved-FFA116?style=for-the-badge" alt="LeetCode" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=redwanahmedutsab&label=Profile%20Views&color=124082&style=flat-square" alt="views" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=redwanahmedutsab&label=Profile+Views&color=124082&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/redwanahmedutsab?style=flat-square&color=124082&label=Followers" alt="Followers" />
 
 </div>
 
@@ -25,11 +28,11 @@
 
 ```python
 class RedwanAhmedUtsab:
-    role      = "AI Engineer"
-    based_in  = "Dhaka, Bangladesh 🇧🇩"
-    education = "B.Sc. CSE (Data Science) @ United International University | CGPA 3.69/4.00"
+    role       = "AI Engineer"
+    based_in   = "Dhaka, Bangladesh"
+    education  = "B.Sc. CSE (Data Science), United International University | CGPA 3.69/4.00"
     founder_of = "BinaryBrains Technologies"
-    languages = ["English (IELTS 6.5)", "Bengali (native)"]
+    languages  = ["English (IELTS 6.5)", "Bengali (native)"]
 
     def what_i_do(self):
         return [
@@ -40,7 +43,7 @@ class RedwanAhmedUtsab:
         ]
 
     def currently(self):
-        return "Aiming for a scholarship-funded Master's/PhD in AI/ML 🎓"
+        return "Aiming for a scholarship-funded Master's/PhD in AI/ML"
 ```
 
 I build and ship **LLM-powered systems end to end**: from retrieval and agent orchestration to the backends and deployments that put them in production. I've deployed a live agentic AI platform, a full-stack campus services platform, and an ML inference service inside a real estate SaaS product. I also co-authored **two research papers** (under review) on NLP and Transformer efficiency.
@@ -51,39 +54,39 @@ I build and ship **LLM-powered systems end to end**: from retrieval and agent or
 
 **🤖 AI & LLM Engineering**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-124082?style=for-the-badge&logo=langgraph&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20(LLaMA)-F55036?style=for-the-badge&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-124082?style=for-the-badge" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Groq_LLaMA-F55036?style=for-the-badge" alt="Groq" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge" alt="Gemini" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logoColor=black&labelColor=FFD21E" alt="Transformers" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
 
 **⚙️ Backend & Databases**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
 
 **🚀 MLOps, DevOps & Frontend**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge" alt="AWS EC2" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logoColor=black" alt="Render" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
 ---
 
@@ -170,22 +173,23 @@ Co-founded a company delivering web, backend, and AI-powered solutions. Own prod
 - 🥇 **1st Place**: Inter-University System Analysis & Design Competition (2024)
 - 🥇 **1st Place**: Pathao Quiz Championship (2024)
 - 🥈 **1st Runner-Up**: Inter-University Thesis Presentation (2025)
-- 💻 **450+ LeetCode problems** solved (DP, graphs, binary search, sliding window)
+- 💻 **480+ LeetCode problems** solved (DP, graphs, binary search, sliding window)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Coding Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=redwanahmedutsab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanahmedutsab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF" alt="top langs" />
+<img src="https://streak-stats.demolab.com/?user=redwanahmedutsab&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="GitHub streak" />
 
-<img src="https://streak-stats.demolab.com/?user=redwanahmedutsab&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="streak" />
+<br/>
 
 <img src="https://leetcard.jacoblin.cool/redwanahmedutsab?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=redwanahmedutsab&theme=tokyo-night&hide_border=true&area=true&color=1E90FF&line=124082&point=ffffff" alt="activity graph" width="100%" />
+<br/>
+
+<img src="https://ghchart.rshah.org/1E90FF/redwanahmedutsab" alt="GitHub contribution chart" width="95%" />
 
 </div>
 
@@ -197,9 +201,9 @@ I'm open to **AI/ML engineering roles, research collaborations, and interesting 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-124082?style=for-the-badge)](https://redwanahmedutsab.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/redwanahmedutsab)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redwanutsab@gmail.com)
+<a href="https://redwanahmedutsab.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-124082?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/redwanahmedutsab"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:redwanutsab@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:124082,100:1E90FF&height=120&section=footer" width="100%" alt="footer" />
 
