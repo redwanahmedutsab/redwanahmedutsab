@@ -119,7 +119,7 @@ ML inference microservice (Scikit-Learn via FastAPI) predicting property prices 
 
 `FastAPI` `DRF` `PostgreSQL` `React` `Docker` `GitHub Actions`
 
-[🔗 Live](https://proprietor.binarybrains.tech) · [💻 GitHub](https://github.com/redwanahmedutsab/Proprietor)
+[🔗 Live](https://proprietor.vercel.app) · [💻 GitHub](https://github.com/redwanahmedutsab/Proprietor)
 
 </td>
 </tr>
