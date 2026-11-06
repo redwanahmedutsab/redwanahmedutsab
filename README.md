@@ -30,7 +30,7 @@
 class RedwanAhmedUtsab:
     role       = "AI Engineer"
     based_in   = "Dhaka, Bangladesh"
-    education  = "B.Sc. CSE (Data Science), United International University | CGPA 3.69/4.00"
+    education  = "B.Sc. CSE (Data Science), United International University | CGPA 3.70/4.00"
     founder_of = "BinaryBrains Technologies"
     languages  = ["English (IELTS 6.5)", "Bengali (native)"]
 
