@@ -90,7 +90,6 @@ I build and ship **LLM-powered systems end to end**: from retrieval and agent or
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
